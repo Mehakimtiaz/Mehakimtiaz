@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋 there, I'm Mehak Imtiaz</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+JavaScript+Engineer+with;focus+on+MERN+Stack+development;Vue.js+|+React+|+Next.js+|+Nuxt.js;Node.js+|+Express.js;Always+learning+new+things" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+JavaScript+Engineer;with+focus+on+MERN+Stack+development;Vue.js+|+React+|+Next.js+|+Nuxt.js;Node.js+|+Express.js;Always+learning+new+technologies" alt="Typing SVG"/>
 </p>
   
 ## About Me
