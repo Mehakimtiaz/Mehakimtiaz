@@ -6,11 +6,11 @@
 </p>
   
 ## About Me
-👩‍💻 Full-stack developer with 6 years of experience in building web applications.
+💻 Full-stack developer with 6 years of experience in MERN stack and modern JS frameworks.
 
-💻 Skilled in MERN stack and modern frameworks including Vue.js, Nuxt.js, and Next.js.
+💡 Enjoy building scalable apps, optimizing performance, and crafting clean, maintainable code.
 
-🛠️ Proficient in TypeScript, delivering scalable, responsive, and maintainable solutions.
+🔗 Open to collaboration on innovative projects and tech discussions.
 
 
 
