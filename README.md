@@ -16,6 +16,9 @@
 
 ## Connect with Me  
 <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href="mailto:mehak.imtiaz.i@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail"/>
+</a>
 
 
 ## Languages and Tools  
