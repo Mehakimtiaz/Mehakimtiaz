@@ -14,12 +14,9 @@
 
 
 
-## Connect with Me  
-<a href="https://www.linkedin.com/in/mehak-imtiaz44/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a href="mailto:mehak.imtiaz.i@gmail.com">
-  <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail"/>
-</a>
+## Connect with Me
 
+<a href="https://www.linkedin.com/in/mehak-imtiaz44/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 
 ## Languages and Tools  
 <p align="left">
