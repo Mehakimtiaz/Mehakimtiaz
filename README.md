@@ -1,11 +1,15 @@
 
-<h1 align="center">Hi 👋 there, I'm Mehak Imtiaz</h1>
+<h1 align="center">
+  Hi 👋 there, I'm Mehak Imtiaz
+ 
+</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+JavaScript+Engineer;with+focus+on+MERN+Stack+development;Vue.js+|+React+|+Next.js+|+Nuxt.js;Node.js+|+Express.js;Always+learning+new+technologies" alt="Typing SVG"/>
 </p>
   
-## About Me
+## About Me  <img src="https://komarev.com/ghpvc/?username=MehakImtiaz&color=blue&style=flat-square" alt="Profile views" width="90" />
 💻 Full-stack developer with 6 years of experience in MERN stack and modern JS frameworks.
 
 💡 Enjoy building scalable apps, optimizing performance, and crafting clean, maintainable code.
