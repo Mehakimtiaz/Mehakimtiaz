@@ -17,7 +17,6 @@
 ## Connect with Me
 
 <a href="https://www.linkedin.com/in/mehak-imtiaz44/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=MehakImtiaz44.MehakImtiaz44)
 
 ## Languages and Tools  
 <p align="left">
