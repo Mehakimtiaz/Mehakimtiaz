@@ -6,11 +6,11 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;with+focus+on+Frontend+development;Vue.js+|+React+|+Next.js+|+Nuxt.js;Always+learning+new+technologies" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;with+focus+on+FullStack+development;Vue.js+|+React+|+Next.js+|+Nuxt.js;Always+learning+new+technologies" alt="Typing SVG"/>
 </p>
   
 ## About Me  <img src="https://komarev.com/ghpvc/?username=MehakImtiaz&color=blue&style=flat-square" alt="Profile views" width="90" />
-💻 Software developer with 6 years of experience in Frontend Development and modern JS frameworks.
+💻 Software developer with 6 years of experience in FullStack Development and modern JS frameworks.
 
 💡 Enjoy building scalable apps, optimizing performance, and crafting clean, maintainable code.
 
