@@ -10,7 +10,7 @@
 </p>
   
 ## About Me  <img src="https://komarev.com/ghpvc/?username=MehakImtiaz&color=blue&style=flat-square" alt="Profile views" width="90" />
-💻 Software developer with 6 years of experience in FullStack Development and modern JS frameworks.
+💻 Software developer with 6 years of experience in Development and modern JS frameworks.
 
 💡 Enjoy building scalable apps, optimizing performance, and crafting clean, maintainable code.
 
