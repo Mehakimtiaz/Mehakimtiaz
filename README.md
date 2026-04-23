@@ -8,6 +8,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Software+Engineer;Vue.js+|+React.js+|+Node.js;Always+learning+new+technologies" alt="Typing SVG"/>
 </p>
+
   
 ## About Me  <img src="https://komarev.com/ghpvc/?username=MehakImtiaz&color=blue&style=flat-square" alt="Profile views" width="90" />
 💻 Software developer with 7 years of experience in Development and modern JS frameworks.
@@ -21,6 +22,9 @@
 ## Connect with Me
 
 <a href="https://www.linkedin.com/in/mehak-imtiaz44/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href="mailto:mehak.imtiaz.i@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/>
+  </a>
 
 ## Languages and Tools  
 <p align="center">
