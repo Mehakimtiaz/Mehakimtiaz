@@ -23,8 +23,6 @@
 <a href="https://www.linkedin.com/in/mehak-imtiaz44/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 
 ## Languages and Tools  
-## Languages and Tools  
-
 <p align="center">
   <!-- Row 1 -->
   <img src="https://img.icons8.com/color/48/javascript.png"/>
@@ -56,6 +54,4 @@
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48"/>
   <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" width="48"/>
-</p>
-  <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" alt="Swagger" width="60" height="60" />
 </p>
