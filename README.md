@@ -10,7 +10,7 @@
 </p>
   
 ## About Me  <img src="https://komarev.com/ghpvc/?username=MehakImtiaz&color=blue&style=flat-square" alt="Profile views" width="90" />
-💻 Software developer with 6 years of experience in Development and modern JS frameworks.
+💻 Software developer with 7 years of experience in Development and modern JS frameworks.
 
 💡 Enjoy building scalable apps, optimizing performance, and crafting clean, maintainable code.
 
@@ -23,38 +23,39 @@
 <a href="https://www.linkedin.com/in/mehak-imtiaz44/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 
 ## Languages and Tools  
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
+## Languages and Tools  
 
-  <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js" />
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
-  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" />
+<p align="center">
+  <!-- Row 1 -->
+  <img src="https://img.icons8.com/color/48/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/typescript.png"/>
+  <img src="https://img.icons8.com/color/48/vue-js.png"/>
+  <img src="https://img.icons8.com/color/48/react-native.png"/>
+  <img src="https://img.icons8.com/color/48/angularjs.png"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="48"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/vuetify.svg" width="48"/>
+  <img src="https://img.icons8.com/color/48/nextjs.png"/>
+  <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="48"/>
+  <img src="https://pinia.vuejs.org/logo.svg" width="48"/>
+</p>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js" width="48" height="48" />
-  <img src="https://cdn.worldvectorlogo.com/logos/vuetify.svg" alt="Vuetify" style="width:48px; height:48px;" />
-  <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" />
-
-  <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" width="48" height="48" />
-  <img src="https://pinia.vuejs.org/logo.svg" alt="Pinia" width="48" height="48" />
-
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" />
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" />
-
-  <img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass" />
-  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" />
-
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
-  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" />
-
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
-  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" />
-  <img src="https://img.icons8.com/color/48/000000/bash.png" alt="Bash" />
-
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" />
+<p align="center">
+  <!-- Row 2 -->
+  <img src="https://img.icons8.com/color/48/html-5--v1.png"/>
+  <img src="https://img.icons8.com/color/48/css3.png"/>
+  <img src="https://img.icons8.com/color/48/sass.png"/>
+  <img src="https://img.icons8.com/color/48/tailwindcss.png"/>
+  <img src="https://img.icons8.com/color/48/nodejs.png"/>
+  <img src="https://img.icons8.com/color/48/express.png"/>
+  <img src="https://img.icons8.com/color/48/mongodb.png"/>
+  <img src="https://img.icons8.com/color/48/docker.png"/>
+  <img src="https://img.icons8.com/color/48/git.png"/>
+  <img src="https://img.icons8.com/color/48/github.png"/>
+  <img src="https://img.icons8.com/color/48/bash.png"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48"/>
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48"/>
+  <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" width="48"/>
+</p>
   <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" alt="Swagger" width="60" height="60" />
 </p>
