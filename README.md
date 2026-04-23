@@ -20,15 +20,14 @@
 
 
 ## Connect with Me
-
-<a href="https://www.linkedin.com/in/mehak-imtiaz44/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <a href="mailto:mehak.imtiaz.i@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/>
-  </a>
+    <img src="https://img.icons8.com/color/48/gmail-new.png" title="mehak.imtiaz.i@gmail.com" alt="Gmail"/>
+</a>
+<a href="https://www.linkedin.com/in/mehak-imtiaz44/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+
 
 ## Languages and Tools  
-<p align="center">
-  <!-- Row 1 -->
+<p align="left">
   <img src="https://img.icons8.com/color/48/javascript.png"/>
   <img src="https://img.icons8.com/color/48/typescript.png"/>
   <img src="https://img.icons8.com/color/48/vue-js.png"/>
@@ -39,10 +38,7 @@
   <img src="https://img.icons8.com/color/48/nextjs.png"/>
   <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="48"/>
   <img src="https://pinia.vuejs.org/logo.svg" width="48"/>
-</p>
 
-<p align="center">
-  <!-- Row 2 -->
   <img src="https://img.icons8.com/color/48/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/48/css3.png"/>
   <img src="https://img.icons8.com/color/48/sass.png"/>
